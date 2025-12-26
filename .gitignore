@@ -1,0 +1,77 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains IDE
+.idea/
+
+# Logs
+*.log
+
+# Backup & reports
+*.bak
+*.backup
+*.mdf
+*.ldf
+
+# Test results
+TestResult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet packages
+*.nupkg
+# Ignore package restore folders
+packages/
+# Except build/ if you have build packages
+!packages/build/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish outputs
+publish/
+*.pubxml
+*.publishproj
+
+# Azure
+*.azurePubxml
+
+# Others
+*.swp
+*.tmp
+*.dbmdl
+*.jfm
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TFS
+$tf/
+
+# DotCover
+*.dotCover
+
+# StyleCop
+StyleCopReport.xml
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
